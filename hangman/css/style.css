@@ -12,6 +12,19 @@ body {
     background-color: #7349AC;
 }
 
+.correct {
+    font-size: 40px;
+    color: #b08fde;
+}
+
+button {
+    width: 80px;
+    height: 40px;
+}
+.texter {
+    display: flex;
+    flex-direction: column;
+}
 .letters {
     font-family: 'Eater', cursive;
     font-size: 3em;
